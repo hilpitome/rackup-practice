@@ -1,5 +1,8 @@
-require "greeter"
 
-use Rack: :Reloader
 
-run Greeter.new
+class Greeter
+
+  def call(env)
+  Rack::Response.new("Hello mike")
+  end
+ end
