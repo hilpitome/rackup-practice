@@ -1,9 +1,7 @@
 
- class Greater
+ class Greeter
 
    def call(env)
-   [200, {}, ["hello !!!!"]]
+   [200, {"Content-Type" => "text/plain"}, ["hello !!!!"]]
    end
   end
-
-run Greeter.new
