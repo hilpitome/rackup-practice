@@ -3,7 +3,7 @@ require "erb"
 class Greeter
 
   def call(env)
-    request = Rack::Request.new(env)
+    r@equest = Rack::Request.new(env)
     case request.path
     when "/" then  Rack::Response.new(render("index.html.erb"))
     when "/change"
@@ -22,6 +22,7 @@ class Greeter
     ERB.new(File.read(path)).result(binding)
   end
   def greet_name
-    request.cookies["greet"] || "World"
+    @request.cookies["greet"] || "World"
+  end
 
  end
