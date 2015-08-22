@@ -1,4 +1,4 @@
-rewquire "erb"
+require "erb"
 
 class Greeter
 

@@ -1,0 +1,588 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lar",
+				"largest_sale"
+			],
+			[
+				"total",
+				"total_sum"
+			],
+			[
+				"tota",
+				"total_sum"
+			],
+			[
+				"item",
+				"itemId"
+			],
+			[
+				"ta",
+				"take_proc"
+			],
+			[
+				"scra",
+				"scrambled_string"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"st",
+				"store"
+			],
+			[
+				"to",
+				"to_s"
+			],
+			[
+				"THIS",
+				"this"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"b",
+				"blinkyDancer"
+			],
+			[
+				"time",
+				"timeBetweenSteps"
+			],
+			[
+				"tim",
+				"timeBetweenSteps"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"p",
+				"prototype"
+			],
+			[
+				"stack",
+				"stackObject"
+			],
+			[
+				"stac",
+				"stackMethods"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"t",
+				"thin"
+			],
+			[
+				"bacground",
+				"background-color"
+			],
+			[
+				"bacgr",
+				"background-image"
+			],
+			[
+				"s",
+				"store"
+			],
+			[
+				"ST",
+				"storage"
+			],
+			[
+				"arry",
+				"arrays"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"prop",
+				"property_name"
+			],
+			[
+				"is",
+				"isArray"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"H",
+				"H3	Tag"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"im",
+				"img	Tag"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"FON",
+				"font-weight"
+			],
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"img",
+				"img	Tag"
+			],
+			[
+				"B",
+				"BUTTON	Tag"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"TD",
+				"td"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"bacgroun",
+				"background-color"
+			],
+			[
+				"I",
+				"inline"
+			],
+			[
+				"as",
+				"aside	Tag"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"hea",
+				"header	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/hilary/Documents/gen-workspace/ms-toys/domestic_trade/domestic_trade.rb",
+			"settings":
+			{
+				"buffer_size": 1556,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/hilary/Documents/gen-workspace/Ruby/greeter/lib/greeter.rb",
+		"/home/hilary/Documents/gen-workspace/Ruby/greeter/config.ru",
+		"/home/hilary/Documents/gen-workspace/ms-toys/domestic_trade/domestic_trade.rb",
+		"/home/hilary/Documents/gen-workspace/ms-toys/domestic_trade/africastalking",
+		"/home/hilary/Documents/gen-workspace/Ruby/frogger/config.ru.rb",
+		"/home/hilary/Documents/gen-workspace/Ruby/frogger/app.rb",
+		"/home/hilary/Documents/gen-workspace/Ruby/frogger/config.ru",
+		"/home/hilary/=~",
+		"/home/hilary/=~.bashrc",
+		"/home/hilary/.bashrc",
+		"/home/hilary/Documents/gen-workspace/Ruby/practice/regex.rb",
+		"/home/hilary/Documents/regex.rb",
+		"/home/hilary/Documents/gen-workspace/Ruby/practice/proc.rb",
+		"/home/hilary/Documents/gen-workspace/Ruby/practice/blocks.rb",
+		"/home/hilary/Documents/gen-workspace/ms-toys/MS-3-ToyProblems/threesort/ThreeSort.java",
+		"/home/hilary/Documents/ms-toys/MS-3-ToyProblems/threesort/ThreeSort.java",
+		"/home/hilary/Documents/gen-workspace/ms-toys/MS-3-ToyProblems/README.md",
+		"/home/hilary/Desktop/sort.rb",
+		"/home/hilary/adder/adder.gemspec",
+		"/home/hilary/adder/lib/adder.rb",
+		"/home/hilary/hilaMultiplyer/hilaMultiplyer.gemspec",
+		"/home/hilary/hilaMultiplyer/lib/hilaMultiplyer.rb",
+		"/home/hilary/Documents/toy_ruby/prep-work/coding-test-1/practice-problems/problems/19-caesar-cipher.rb",
+		"/home/hilary/Documents/toy_ruby/prep-work/coding-test-1/practice-problems/problems/16-nth-prime.rb",
+		"/home/hilary/Desktop/practice-ruby/greeting.rb",
+		"/home/hilary/Documents/toy_ruby/prep-work/coding-test-1/practice-problems/problems/20-num-repeats.rb",
+		"/home/hilary/Ruby/prime.rb",
+		"/home/hilary/Ruby/two_sumw.rb",
+		"/home/hilary/Documents/toy_ruby/prep-work/coding-test-1/practice-problems/problems/17-longest-palindrome.rb",
+		"/home/hilary/Ruby/dasherize_number.rb",
+		"/home/hilary/Ruby/humsn.rb",
+		"/home/hilary/Ruby/most_common_letter.rb",
+		"/home/hilary/Ruby/scramble-string.rb",
+		"/home/hilary/myapp/config/database.yml",
+		"/home/hilary/Ruby/greatest-common-factor.rb",
+		"/home/hilary/myapp/Gemfile.lock",
+		"/home/hilary/Ruby/two-sum.rb",
+		"/home/hilary/Ruby/third_largest.rb",
+		"/home/hilary/Ruby/power_of_two.rb",
+		"/home/hilary/Ruby/two_sum.rb",
+		"/home/hilary/Ruby/capitalize.rb",
+		"/home/hilary/Ruby/time_conversion.rb",
+		"/home/hilary/Ruby/factorial.rb",
+		"/home/hilary/Ruby/longest_word.rb",
+		"/home/hilary/Ruby/sum_nums.rb",
+		"/home/hilary/Ruby/most_letters.rb",
+		"/home/hilary/Ruby/palindrome.rb",
+		"/home/hilary/Ruby/count_vowels.rb",
+		"/home/hilary/Desktop/The men who built America/Part4.When.One.Ends.Another.Begins.HDTV.XviD-AFG/First Read This Guide.txt",
+		"/home/hilary/Documents/toy_ruby/prep-work/coding-test-1/practice-problems/problems/02-longest-word.rb",
+		"/home/hilary/Documents/toy_ruby/prep-work/coding-test-1/practice-problems/problems/00-reverse.rb",
+		"/home/hilary/Ruby/vowels.rb",
+		"/home/hilary/Documents/toy_ruby/prep-work/coding-test-1/practice-problems/problems/03-sum-nums.rb",
+		"/home/hilary/Ruby/def time_conversion(minutes)",
+		"/home/hilary/Documents/social/2015-07-chatterbox-client/client/scripts/johnChatter",
+		"/home/hilary/Downloads/ParsePlatform-MealSpotting-2f00e6e/src/com/parse/mealspotting/Meal.java",
+		"/home/hilary/Downloads/ParsePlatform-MealSpotting-2f00e6e/src/com/parse/mealspotting/CameraFragment.java",
+		"/home/hilary/Desktop/toys",
+		"/home/hilary/Documents/social/2015-07-chatterbox-client/client/scripts/app.js",
+		"/home/hilary/Documents/social/2015-07-chatterbox-client/client/env/config.js",
+		"/home/hilary/Documents/social/2015-07-chatterbox-client/client/index.html",
+		"/home/hilary/Documents/underbar/under/src/underbar.js",
+		"/home/hilary/Documents/dancer/2015-07-subclass-dance-party/src/dancer.js",
+		"/home/hilary/Documents/dancer/2015-07-subclass-dance-party/src/blinkyDancer.js",
+		"/home/hilary/Documents/dancer/2015-07-subclass-dance-party/styles.css",
+		"/home/hilary/Documents/dancer/2015-07-subclass-dance-party/src/init.js",
+		"/home/hilary/Documents/todo",
+		"/home/hilary/Documents/html/learn.html",
+		"/home/hilary/Documents/ChatterBox/2015-07-chatterbox-client/client/scripts/app.js",
+		"/home/hilary/Documents/dancer/2015-07-subclass-dance-party/src/slidyDancer.js",
+		"/home/hilary/Documents/dancer/2015-07-subclass-dance-party/dancefloor.html",
+		"/home/hilary/Documents/dancer/2015-07-subclass-dance-party/spec/blinkyDancerSpec.js",
+		"/home/hilary/Documents/ChatterBox/2015-07-chatterbox-client/client/styles/styles.css",
+		"/home/hilary/Documents/ChatterBox/2015-07-chatterbox-client/client/index.html",
+		"/home/hilary/Documents/ChatterBox/2015-07-chatterbox-client/npm-debug.log",
+		"/home/hilary/Documents/ChatterBox/2015-07-chatterbox-client/bower.json",
+		"/home/hilary/Documents/dancer/2015-07-subclass-dance-party/SpecRunner.html",
+		"/home/hilary/Documents/assesment2/index.html",
+		"/home/hilary/Documents/assesment2/quora.css",
+		"/home/hilary/Documents/assesment2/readme.md",
+		"/home/hilary/Documents/javascriptDataStructures/2015-07-js-data-structures/sprint-one/src/pseudoclassical/stack.js",
+		"/home/hilary/Documents/javascriptDataStructures/2015-07-js-data-structures/sprint-one/src/pseudoclassical/queue.js",
+		"/home/hilary/Documents/javascriptDataStructures/2015-07-js-data-structures/sprint-one/src/functional-shared/stack.js",
+		"/home/hilary/Documents/javascriptDataStructures/2015-07-js-data-structures/sprint-one/src/functional/queue.js",
+		"/home/hilary/Documents/javascriptDataStructures/2015-07-js-data-structures/sprint-one/SpecRunner.html",
+		"/home/hilary/Documents/assesment2/.git/config",
+		"/home/hilary/Documents/javascriptDataStructures/2015-07-js-data-structures/sprint-one/src/functional/stack.js",
+		"/home/hilary/Documents/javascriptDataStructures/2015-07-js-data-structures/sprint-one/src/functional-shared/queue.js",
+		"/home/hilary/Documents/html/My dislikes.html",
+		"/home/hilary/Documents/assignment instructions/yolomy/index.html",
+		"/home/hilary/Documents/dataStructures/java-data-structures/stack/stack.java",
+		"/home/hilary/Documents/Self_Assessments/2015-07-JS-Beginner-Koans/index.html",
+		"/home/hilary/Documents/Self_Assessments/2015-07-JS-Beginner-Koans/topics/1_about_asserts.js",
+		"/home/hilary/Documents/underbar/2015-07-underbar/spec/part1.js",
+		"/home/hilary/Documents/Self_Assessments/2015-07-JS-Beginner-Koans/topics/14_about_functions_and_closure.js",
+		"/home/hilary/Documents/underbar/under/src/tizi",
+		"/home/hilary/Documents/dataStructures/2015-07-Data-Structures/stack/stack.java",
+		"/home/hilary/Documents/Self_Assessments/Assessment1/index.html",
+		"/home/hilary/Documents/Self_Assessments/Assessment1/gnome.css",
+		"/home/hilary/Documents/underbar/under/spec/part1.js",
+		"/home/hilary/Documents/underbar/each.html",
+		"/home/hilary/Documents/underbar/2015-07-underbar/src/underbar.js",
+		"/home/hilary/Documents/Self_Assessments/2015-07-JS-Beginner-Koans/topics/8_about_numbers.js",
+		"/home/hilary/Documents/Self_Assessments/2015-07-JS-Beginner-Koans/topics/2_about_operators.js",
+		"/home/hilary/Documents/Self_Assessments/Assessment1/README.md",
+		"/home/hilary/Documents/html/short/short stories.html",
+		"/home/hilary/Documents/html/animation/animation.css",
+		"/home/hilary/Documents/html/animation/animation.html",
+		"/home/hilary/Documents/practice/practice.css",
+		"/home/hilary/Documents/practice/pactice.html",
+		"/home/hilary/Documents/assignment instructions/yolomy/yolomy.css",
+		"/home/hilary/Documents/html/One Reslution.html",
+		"/home/hilary/Documents/html/short/short.css",
+		"/home/hilary/Documents/html/learn.css",
+		"/home/hilary/Documents/duckduck/index.html",
+		"/home/hilary/Documents/html/learning1stpage.html",
+		"/home/hilary/Documents/duckduck/duck.css",
+		"/home/hilary/Documents/bog.html",
+		"/home/hilary/Documents/assignment instructions/yolomy/css/materialize.min.css",
+		"/home/hilary/Documents/assignment instructions/yolomy/css/materialize.css",
+		"/home/hilary/Documents/html/test.html",
+		"/home/hilary/Documents/materialize/hilary-materialize/My dislikes.html",
+		"/home/hilary/Documents/assignment instructions/FrontEnd-Assignments/Assignment_1/readme.md",
+		"/home/hilary/Documents/materialize/hilary-materialize/css/materialize.css",
+		"/home/hilary/Documents/html/classids.html",
+		"/home/hilary/Documents/html/searchEngine.html",
+		"/home/hilary/Documents/materialize/hilary-materialize/index.html",
+		"/home/hilary/Documents/materialize/hilary-materialize/css/materialize.min.css"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"d",
+			"BlinkyDancer",
+			"Blinkydancer",
+			"BlinkyDancer",
+			"dancer",
+			"Dancer",
+			"dancer",
+			"Dancer",
+			"dancer",
+			"storage",
+			"sizei",
+			"md",
+			"lg",
+			"md",
+			"xs",
+			"hero",
+			"nav bar"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/hilary/Documents/gen-workspace/ms-toys/domestic_trade/domestic_trade.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1556,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 142.0
+	},
+	"output.find_results":
+	{
+		"height": 142.0
+	},
+	"pinned_build_system": "",
+	"project": "greeter.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 161.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
