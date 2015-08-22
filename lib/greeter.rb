@@ -21,4 +21,7 @@ class Greeter
     path = File.expand_path("../views/#{template}", __FILE__)
     ERB.new(File.read(path)).result(binding)
   end
+  def greet_name
+    request.cookies["greet"] || "World"
+
  end
