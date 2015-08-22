@@ -6,6 +6,7 @@ class Greeter
     request = Rack::Request.new(env)
     case request.path
     when "/" then  Rack::Response.new(render("index.html.erb"))
+    when "/change"  Rack::Response.new(request.params["name"])
     else Rack::Response.new("Not Found", 404)
     end
 
