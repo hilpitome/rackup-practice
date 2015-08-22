@@ -20,7 +20,9 @@
    </style>
 </head>
 <body>
-e       <form method="post" action="/change">
+    <div id="container">
+       <h1>Hello <%= greet_name %>!</h1>
+       <form method="post" action="/change">
          <input name="name" type="text">
          <input type="submit" value="Change Name">
        </form>

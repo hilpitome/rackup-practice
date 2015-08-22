@@ -10,6 +10,7 @@ class Greeter
       Rack::Response.new do |response|
       response.set_cooie("greet", request.params["name"])
       response.redirect("/")
+    end
     else Rack::Response.new("Not Found", 404)
     end
 
