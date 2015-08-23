@@ -19,5 +19,8 @@ describe Greeter do
   end
   it "/change sets cookie and redirects to root" do
     response = @request.post("/change", params: {"name"=>"Ruby"})
+    response.status.must_equal 302
+    response["Location"].must_equal "/"
+    response["Set-Cookie"].must_include "greet=hila"
   end
 end
