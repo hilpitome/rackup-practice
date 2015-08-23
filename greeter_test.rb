@@ -11,7 +11,11 @@ describe Greeter do
   end
 
   it "/ diplsys hello world by default" do
-    @request.get("/").body.must_include "Hello World!" 
+    @request.get("/").body.must_include "Hello World!"
+  end
+
+  it "/ displayes the name passed into the cookie" do
+    @request.get("/", "HTTP _COOKIE" => "greet=hil").body.must_include "Hello hil!"
   end
 
 end
