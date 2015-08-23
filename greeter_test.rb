@@ -17,5 +17,7 @@ describe Greeter do
   it "/ displayes the name passed into the cookie" do
     @request.get("/", "HTTP _COOKIE" => "greet=hil").body.must_include "Hello hil!"
   end
-
+  it "/change sets cookie and redirects to root" do
+    response = @request.post("/change", params: {"name"=>"Ruby"})
+  end
 end
