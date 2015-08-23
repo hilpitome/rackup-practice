@@ -2,7 +2,7 @@ require "erb"
 
 class Greeter
  def self.call(env)
-   new(env).response
+   new(env).response.finish
  end
   def initialize(env)
     r@equest = Rack::Request.new(env)
