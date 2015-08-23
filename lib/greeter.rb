@@ -1,18 +1,22 @@
-require "erb"
+ require "erb"
 
 class Greeter
- def self.call(env)
-   new(env).response.finish
- end
-  def initialize(env)
-    r@equest = Rack::Request.new(env)
+  def self.call(env)
+    new(env)
   end
-  def response
-    case request.path
+
+ def call(env)
+ #   new(env).response.finish
+ # end
+ #  def initialize(env)
+    @request = Rack::Request.new(env)
+  # end
+  # def response
+    case @request.path
     when "/" then  Rack::Response.new(render("index.html.erb"))
     when "/change"
       Rack::Response.new do |response|
-      response.set_cooie("greet", request.params["name"])
+      response.set_cookie("greet", @request.params["name"])
       response.redirect("/")
     end
     else Rack::Response.new("Not Found", 404)
