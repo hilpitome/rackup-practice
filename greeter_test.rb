@@ -10,4 +10,8 @@ describe Greeter do
     @request.get("/unknown").status.must_equal 404
   end
 
+  it "/ diplsys hello world by default" do
+    @request.get("/").body.must_include "Hello World!" 
+  end
+
 end
